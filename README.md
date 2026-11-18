@@ -1,6 +1,6 @@
-[Vytvořte program ucitel_nalada.py
+Vytvořte program ucitel_nalada.py
 
-https://www.fotmob.com/teams/9825/fixtures/arsenal
+https://www.premierleague.com/en/clubs/3/arsenal/overview
 
 
 Pokud Arsenal vyhrál poslední zápas, učitel má dobrou náladu 
@@ -11,9 +11,3 @@ Pokud poslední tým byl Tottenham nebo Slavia, nálada učitele je násobena a 
 
 
 Pokud Arsenal není první v tabulce, je nálada špatná nezávisle na výsledku
-
-
-Hint:
-Pro tabulku a alternativně pro skóre lze použít stránku:
-https://www.premierleague.com/en/clubs/3/arsenal/overview
-](https://www.premierleague.com/en/clubs/3/arsenal/overview)
